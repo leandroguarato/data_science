@@ -16,4 +16,4 @@ Com formação em Ciências Contábeis e MBA em Auditoria e Perícia pela Univer
 * [Instagram](https://www.instagram.com/leandroguarato)
 
 **Projetos:**
-* [Analisando o Airbnb - Veneza](https://github.com/leandroguarato/data_science/tree/master/01%20-%20Airbnb_Veneza)
+* [Analisando o Airbnb - Veneza](Analisando_os_Dados_do_Airbnb.ipynb)
