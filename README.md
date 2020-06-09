@@ -15,3 +15,5 @@ Com formação em Ciências Contábeis e MBA em Auditoria e Perícia pela Univer
 * [Medium](https://medium.com/@lguarato)
 * [Instagram](https://www.instagram.com/leandroguarato)
 
+** Projetos:**
+[Analisando o Airbnb - Veneza](https://github.com/leandroguarato/data_science)
