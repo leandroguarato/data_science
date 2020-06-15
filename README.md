@@ -17,4 +17,4 @@ Com formação em Ciências Contábeis e MBA em Auditoria e Perícia pela Univer
 
 **Projetos:**
 * [Analisando o Airbnb - Veneza](Analisando_os_Dados_do_Airbnb.ipynb)
-* [Analisando a violência no Estado do Rio de Janeiro](Analisando_a_Violência_no_Rio_de_Janeiro.ipynb)
+* [Analisando a Violência no Estado do Rio de Janeiro](Analisando_a_Violência_no_Rio_de_Janeiro.ipynb)
